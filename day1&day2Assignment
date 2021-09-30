@@ -1,0 +1,44 @@
+----
+print("I want \\n to be printed.")
+
+
+----
+
+
++*Out[6]:*+
+----
+I want \n to be printed.
+----
+
+
++*In[7]:*+
+[source, ipython3]
+----
+x = 10
+print(type(x))
+ 
+s = 'abc'
+print(type(s))
+ 
+value= True
+print(type(value))
+
+percent=90.00
+type(percent)
+
+----
+
+
++*Out[7]:*+
+----
+<class 'int'>
+<class 'str'>
+<class 'bool'>
+float----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
